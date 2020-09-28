@@ -18,13 +18,15 @@ Employee Tracker is a node CLI application containing an employee database that 
 
 Install the depencies in the package.json:
 
-```npm install
+```
+npm install
 
 ```
 
 Then run the application:
 
-```npm start
+```
+npm start
 
 ```
 
